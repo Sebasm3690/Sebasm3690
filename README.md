@@ -17,19 +17,18 @@
 ### 🚀 Featured Projects
 
 ### 🌿 Files Management System
-Internal file management software developed for the Ministry of Environment, Water and Ecological Transition to optimize report handling and document control.
-🔹 **Technologies used:** Django, PostgreSQL.
-🔹 **Key features:** Automated data organization, optimized document retrieval, and a robust relational database improving efficiency by 30%.
+Internal file management software developed for the Ministry of Environment, Water and Ecological Transition to optimize report handling and document control.  
+🔹 **Technologies used:** Django, PostgreSQL.  
+🔹 **Key features:** Automated data organization, optimized document retrieval, and a robust relational database improving efficiency by 30%.  
 
 ### 🏋️ Exercise Routine App & Calorie Tracker API (Thesis Project)
-
-A full-stack web application for trainers and clients to manage exercise routines and track calorie intake efficiently.
-🔹 **Technologies used:** React, Django REST Framework, PostgreSQL
-🔹 **Key features:** Role-based access for admins, trainers, and clients, real-time calorie tracking, and dynamic routine management.
+A full-stack web application for trainers and clients to manage exercise routines and track calorie intake efficiently.  
+🔹 **Technologies used:** React, Django REST Framework, PostgreSQL.  
+🔹 **Key features:** Role-based access for admins, trainers, and clients, real-time calorie tracking, and dynamic routine management.  
 
 #### 🎉 Party Connect
 An event ticketing platform for parties and entertainment shows.  
-🔹 **Technologies used:** React, Django, PostgreSQL  
+🔹 **Technologies used:** React, Django, PostgreSQL.  
 🔹 **Key features:** Ticket sales system and event administration dashboard.  
 
 ---
@@ -84,16 +83,16 @@ An event ticketing platform for parties and entertainment shows.
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://facebook.com/" target="_blank">
+  <a href="https://www.facebook.com/Sebastian.Alejandro.Merino" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/" target="_blank">
+  <a href="https://www.instagram.com/sebastianm3690/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:your.sebasm6004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>

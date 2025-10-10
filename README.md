@@ -14,8 +14,6 @@
 
 ---
 
----
-
 ### 🚀 Featured Projects
 
 #### 🌐 SimpleCMS

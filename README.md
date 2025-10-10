@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sebas</h1>
+<h1 align="center">Hi 👋, I'm Sebastian</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sebas&label=Profile%20views&color=0e75b6&style=flat" alt="Sebas" />
@@ -11,6 +11,27 @@
 - 🚀 Exploring new technologies and developing innovative software solutions.  
 - 🎓 I'm a software engineer passionate about building efficient and scalable web applications.  
 - 🌐 Languages: **English**, **Spanish**  
+
+---
+
+---
+
+### 🚀 Featured Projects
+
+#### 🌐 SimpleCMS
+A content management system (CMS) designed for small businesses.  
+🔹 **Technologies used:** PHP, Bootstrap, MySQL  
+🔹 **Key features:** User management, post creation, and permissions handling.  
+
+#### 🌱 EcoRuta Registry
+Vehicle management software developed for the Ministry of Environment, Water, and Ecological Transition.  
+🔹 **Technologies used:** Django, PostgreSQL  
+🔹 **Key features:** Vehicle registry, report generation, and document tracking.  
+
+#### 🎉 Party Connect
+An event ticketing platform for parties and entertainment shows.  
+🔹 **Technologies used:** React, Django, PostgreSQL  
+🔹 **Key features:** Ticket sales system and event administration dashboard.  
 
 ---
 
@@ -83,15 +104,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sebas&show_icons=true&theme=react&hide_border=true" alt="Sebas GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sebasm3690&show_icons=true&theme=react&hide_border=true" alt="Sebas GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebas&layout=compact&theme=react&hide_border=true" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebasm3690&layout=compact&theme=react&hide_border=true" alt="Most Used Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sebas&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="Sebas trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sebasm3690&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="Sebas trophies" />
 </p>
 
 ---

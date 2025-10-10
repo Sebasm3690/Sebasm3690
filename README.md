@@ -16,15 +16,16 @@
 
 ### 🚀 Featured Projects
 
-#### 🌐 SimpleCMS
-A content management system (CMS) designed for small businesses.  
-🔹 **Technologies used:** PHP, Bootstrap, MySQL  
-🔹 **Key features:** User management, post creation, and permissions handling.  
+### 🌿 Files Management System
+Internal file management software developed for the Ministry of Environment, Water and Ecological Transition to optimize report handling and document control.
+🔹 **Technologies used:** Django, PostgreSQL.
+🔹 **Key features:** Automated data organization, optimized document retrieval, and a robust relational database improving efficiency by 30%.
 
-#### 🌱 EcoRuta Registry
-Vehicle management software developed for the Ministry of Environment, Water, and Ecological Transition.  
-🔹 **Technologies used:** Django, PostgreSQL  
-🔹 **Key features:** Vehicle registry, report generation, and document tracking.  
+### 🏋️ Exercise Routine App & Calorie Tracker API (Thesis Project)
+
+A full-stack web application for trainers and clients to manage exercise routines and track calorie intake efficiently.
+🔹 **Technologies used:** React, Django REST Framework, PostgreSQL
+🔹 **Key features:** Role-based access for admins, trainers, and clients, real-time calorie tracking, and dynamic routine management.
 
 #### 🎉 Party Connect
 An event ticketing platform for parties and entertainment shows.  

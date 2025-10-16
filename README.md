@@ -10,7 +10,13 @@
 
 - 🚀 Exploring new technologies and developing innovative software solutions.  
 - 🎓 I'm a software engineer passionate about building efficient and scalable web applications.  
-- 🌐 Languages: **English**, **Spanish**  
+- 🌐 Languages: **English**, **Spanish**
+- 
+
+## Resume/CV
+
+https://github.com/Sebasm3690/Portafolio/blob/04041c9e9784e1fc5a5e077a031336507d252d34/public/Sebasti%C3%A1n_Merino_CV.pdf
+https://github.com/Sebasm3690/Portafolio/blob/5fe179885ab9a390d533ada5591a2993e947f82c/public/resume.pdf
 
 ---
 
